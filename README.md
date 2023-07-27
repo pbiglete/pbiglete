@@ -1,7 +1,6 @@
 # Hi, I'm Paul!
-https://pbiglete.dev/
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 <img align="left" alt="Puppet" width="45x" style="padding-right:10px" title="Puppet" src="https://www.svgrepo.com/show/354230/puppet-icon.svg" />
 <img align="left" alt="Python" width="45x" style="padding-right:10px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Golang" width="45x" style="padding-right:10px" title="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
